@@ -1,0 +1,29 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.container h1 {
+    font-size: 5em;
+    color: white;
+}
+
+.container p {
+    color: white;
+    font-size: 2em;
+    padding: 8px;
+    text-align: center;
+}
+
+.container button {
+    padding: 12px;
+    min-width: 60px;
+    border: none;
+    margin: 4px;
+    font-size: 1.5em;
+    background-color: white;
+    border-radius: 8px;
+}
